@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Calculus Masterclass",
+        "type": "Video Lecture",
+        "url": "https://www.khanacademy.org/math/calculus-1",
+        "category": "Cluster 0"
+    },
+    {
+        "title": "Science Experiments for Beginners",
+        "type": "Interactive Video",
+        "url": "https://www.exploratorium.edu/",
+        "category": "Cluster 1"
+    },
+    {
+        "title": "Basic Mathematics Refresher",
+        "type": "PDF Guide",
+        "url": "https://openstax.org/details/books/algebra-and-trigonometry",
+        "category": "Cluster 2"
+    },
+    {
+        "title": "PhET Interactive Simulations",
+        "type": "Web App",
+        "url": "https://phet.colorado.edu/",
+        "category": "Kinesthetic"
+    },
+    {
+        "title": "Auditory Learning with Podcasts",
+        "type": "Podcast",
+        "url": "https://www.sciencepodcastforkids.com/",
+        "category": "Auditory"
+    },
+    {
+        "title": "Infographics for Visual Learners",
+        "type": "Infographic Collection",
+        "url": "https://www.visualcapitalist.com/",
+        "category": "Visual"
+    },
+    {
+        "title": "Interactive Math Games",
+        "type": "Game",
+        "url": "https://www.coolmathgames.com/",
+        "category": "Engagement High"
+    },
+    {
+        "title": "Motivational Videos for Low Engagement",
+        "type": "Video",
+        "url": "https://www.youtube.com/watch?v=ZXsQAXx_ao0",
+        "category": "Engagement Low"
+    },
+    {
+        "title": "Advanced Physics Lectures",
+        "type": "Video Lecture",
+        "url": "https://ocw.mit.edu/courses/physics/",
+        "category": "Cluster 0"
+    },
+    {
+        "title": "Interactive Science Labs",
+        "type": "Web App",
+        "url": "https://www.golabz.eu/",
+        "category": "Kinesthetic"
+    },
+    {
+        "title": "CrashCourse History",
+        "type": "YouTube Series",
+        "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H",
+        "category": "Auditory"
+    },
+    {
+        "title": "Learn Through Visualization",
+        "type": "Interactive Infographics",
+        "url": "https://www.nationalgeographic.com/",
+        "category": "Visual"
+    },
+    {
+        "title": "Gamified Learning Platforms",
+        "type": "Platform",
+        "url": "https://www.kahoot.com/",
+        "category": "Engagement High"
+    },
+    {
+        "title": "Remedial Math Practice",
+        "type": "Practice App",
+        "url": "https://www.mathway.com/",
+        "category": "Engagement Low"
+    }
+]
